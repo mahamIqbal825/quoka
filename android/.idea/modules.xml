@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quokka.iml" filepath="$PROJECT_DIR$/.idea/modules/quokka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/727572012/quokka.@payhere_payhere-mobilesdk-reactnative.iml" filepath="$PROJECT_DIR$/.idea/modules/727572012/quokka.@payhere_payhere-mobilesdk-reactnative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quokka.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quokka.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/727572012/quokka.payhere_payhere-mobilesdk-reactnative.iml" filepath="$PROJECT_DIR$/.idea/modules/727572012/quokka.payhere_payhere-mobilesdk-reactnative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-730818762/quokka.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-730818762/quokka.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1594104133/quokka.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1594104133/quokka.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/750679699/quokka.react-native-community_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/750679699/quokka.react-native-community_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1793908933/quokka.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-1793908933/quokka.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784869483/quokka.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784869483/quokka.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-150119023/quokka.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-150119023/quokka.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1164918361/quokka.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1164918361/quokka.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-350419494/quokka.react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/-350419494/quokka.react-native-localize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/433599699/quokka.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/433599699/quokka.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2134241559/quokka.react-native-prompt-android.iml" filepath="$PROJECT_DIR$/.idea/modules/2134241559/quokka.react-native-prompt-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-184506521/quokka.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-184506521/quokka.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-916253506/quokka.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-916253506/quokka.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/344959574/quokka.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/344959574/quokka.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1146624221/quokka.react-native-spinkit.iml" filepath="$PROJECT_DIR$/.idea/modules/-1146624221/quokka.react-native-spinkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1966441037/quokka.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1966441037/quokka.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1475148385/quokka.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1475148385/quokka.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-396097848/quokka.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-396097848/quokka.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1004065806/quokka.react-native-youtube.iml" filepath="$PROJECT_DIR$/.idea/modules/-1004065806/quokka.react-native-youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1770304372/quokka.sentry_react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-1770304372/quokka.sentry_react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1105310841/quokka.terrylinla_react-native-sketch-canvas.iml" filepath="$PROJECT_DIR$/.idea/modules/1105310841/quokka.terrylinla_react-native-sketch-canvas.iml" />
+    </modules>
+  </component>
+</project>

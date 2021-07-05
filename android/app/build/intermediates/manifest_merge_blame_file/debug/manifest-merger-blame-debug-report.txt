@@ -1,0 +1,195 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.quokka"
+4    android:versionCode="18"
+5    android:versionName="1.8" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:8:5-64
+12-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:8:22-62
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:5:5-79
+13-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:5:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:6:5-67
+14-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:7:5-65
+15-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:7:22-63
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->[com.facebook.flipper:flipper:0.54.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:16:5-76
+16-->[com.facebook.flipper:flipper:0.54.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:16:22-73
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[:sentry_react-native] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+17-->[:sentry_react-native] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-76
+18
+19    <uses-feature
+19-->[:react-native-camera] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+20        android:name="android.hardware.camera"
+20-->[:react-native-camera] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+21        android:required="false" />
+21-->[:react-native-camera] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+22    <uses-feature
+22-->[:react-native-camera] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+23        android:name="android.hardware.camera.autofocus"
+23-->[:react-native-camera] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+24        android:required="false" />
+24-->[:react-native-camera] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+25
+26    <application
+26-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:10:5-31:19
+27        android:name="com.quokka.MainApplication"
+27-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:11:7-38
+28        android:allowBackup="false"
+28-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:15:7-34
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.3.1] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/2d28154e54ca207a313bfde4a5999c2c/core-1.3.1/AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:icon="@mipmap/ic_launcher"
+31-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:13:7-41
+32        android:label="@string/app_name"
+32-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:12:7-39
+33        android:supportsRtl="true"
+33-->[lk.payhere:androidsdk:2.0.31] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/d5136ac57262715240d29da66a1eb094/androidsdk-2.0.31/AndroidManifest.xml:17:9-35
+34        android:theme="@style/AppTheme"
+34-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:16:7-38
+35        android:usesCleartextTraffic="true" >
+35-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:14:7-42
+36        <activity
+36-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:19:7-29:18
+37            android:name="com.quokka.MainActivity"
+37-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:20:9-37
+38            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+38-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:22:9-86
+39            android:label="@string/app_name"
+39-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:21:9-41
+40            android:launchMode="singleTask"
+40-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:23:9-40
+41            android:windowSoftInputMode="adjustResize" >
+41-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:24:9-51
+42            <intent-filter>
+42-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:25:9-28:25
+43                <action android:name="android.intent.action.MAIN" />
+43-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:26:13-65
+43-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:26:21-62
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:27:13-73
+45-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:27:23-70
+46            </intent-filter>
+47        </activity>
+48        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+48-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:30:7-84
+48-->/Users/muhammadkashaf/Desktop/quokka-mobile/android/app/src/main/AndroidManifest.xml:30:17-81
+49
+50        <meta-data
+50-->[:sentry_react-native] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-17:37
+51            android:name="io.sentry.auto-init"
+51-->[:sentry_react-native] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+52            android:value="false" />
+52-->[:sentry_react-native] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-34
+53
+54        <provider
+54-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+55            android:name="com.imagepicker.ImagePickerProvider"
+55-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
+56            android:authorities="com.quokka.imagepickerprovider"
+56-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
+57            android:exported="false"
+57-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+58            android:grantUriPermissions="true" >
+58-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+59            <meta-data
+59-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+60                android:name="android.support.FILE_PROVIDER_PATHS"
+60-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+61                android:resource="@xml/imagepicker_provider_paths" />
+61-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+62        </provider>
+63        <provider
+63-->[:react-native-webview] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+64            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+64-->[:react-native-webview] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+65            android:authorities="com.quokka.fileprovider"
+65-->[:react-native-webview] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+66            android:exported="false"
+66-->[:react-native-webview] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+67            android:grantUriPermissions="true" >
+67-->[:react-native-webview] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+68            <meta-data
+68-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+69                android:name="android.support.FILE_PROVIDER_PATHS"
+69-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+70                android:resource="@xml/file_provider_paths" />
+70-->[:react-native-image-picker] /Users/muhammadkashaf/Desktop/quokka-mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+71        </provider>
+72
+73        <activity
+73-->[com.google.android.gms:play-services-base:16.0.1] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/1f20ea010ceb66fe67a1abfde4bc9813/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+74            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+74-->[com.google.android.gms:play-services-base:16.0.1] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/1f20ea010ceb66fe67a1abfde4bc9813/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+75            android:exported="false"
+75-->[com.google.android.gms:play-services-base:16.0.1] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/1f20ea010ceb66fe67a1abfde4bc9813/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+76            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+76-->[com.google.android.gms:play-services-base:16.0.1] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/1f20ea010ceb66fe67a1abfde4bc9813/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+77
+78        <meta-data
+78-->[com.google.android.gms:play-services-basement:16.1.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/8b7dc651bda3426c882636d1397976aa/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+79            android:name="com.google.android.gms.version"
+79-->[com.google.android.gms:play-services-basement:16.1.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/8b7dc651bda3426c882636d1397976aa/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+80            android:value="@integer/google_play_services_version" />
+80-->[com.google.android.gms:play-services-basement:16.1.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/8b7dc651bda3426c882636d1397976aa/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+81
+82        <activity
+82-->[lk.payhere:androidsdk:2.0.31] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/d5136ac57262715240d29da66a1eb094/androidsdk-2.0.31/AndroidManifest.xml:18:9-21:65
+83            android:name="lk.payhere.androidsdk.PHMainActivity"
+83-->[lk.payhere:androidsdk:2.0.31] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/d5136ac57262715240d29da66a1eb094/androidsdk-2.0.31/AndroidManifest.xml:19:13-64
+84            android:launchMode="singleTop"
+84-->[lk.payhere:androidsdk:2.0.31] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/d5136ac57262715240d29da66a1eb094/androidsdk-2.0.31/AndroidManifest.xml:20:13-43
+85            android:theme="@style/ph_transparent.windowTitle" />
+85-->[lk.payhere:androidsdk:2.0.31] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/d5136ac57262715240d29da66a1eb094/androidsdk-2.0.31/AndroidManifest.xml:21:13-62
+86
+87        <meta-data
+87-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/cd9e57bd9c89649cc4204adbde3f0669/okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+88            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+88-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/cd9e57bd9c89649cc4204adbde3f0669/okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+89            android:value="GlideModule" /> <!-- 'android:authorities' must be unique in the device, across all apps -->
+89-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/cd9e57bd9c89649cc4204adbde3f0669/okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+90        <provider
+90-->[io.sentry:sentry-android-core:5.1.0-beta.2] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/f1115312a577a3aaf9e94271654430c7/jetified-sentry-android-core-5.1.0-beta.2/AndroidManifest.xml:14:9-17:40
+91            android:name="io.sentry.android.core.SentryInitProvider"
+91-->[io.sentry:sentry-android-core:5.1.0-beta.2] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/f1115312a577a3aaf9e94271654430c7/jetified-sentry-android-core-5.1.0-beta.2/AndroidManifest.xml:15:13-69
+92            android:authorities="com.quokka.SentryInitProvider"
+92-->[io.sentry:sentry-android-core:5.1.0-beta.2] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/f1115312a577a3aaf9e94271654430c7/jetified-sentry-android-core-5.1.0-beta.2/AndroidManifest.xml:16:13-70
+93            android:exported="false" />
+93-->[io.sentry:sentry-android-core:5.1.0-beta.2] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/f1115312a577a3aaf9e94271654430c7/jetified-sentry-android-core-5.1.0-beta.2/AndroidManifest.xml:17:13-37
+94        <provider
+94-->[io.sentry:sentry-android-core:5.1.0-beta.2] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/f1115312a577a3aaf9e94271654430c7/jetified-sentry-android-core-5.1.0-beta.2/AndroidManifest.xml:18:9-22:39
+95            android:name="io.sentry.android.core.SentryPerformanceProvider"
+95-->[io.sentry:sentry-android-core:5.1.0-beta.2] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/f1115312a577a3aaf9e94271654430c7/jetified-sentry-android-core-5.1.0-beta.2/AndroidManifest.xml:19:13-76
+96            android:authorities="com.quokka.SentryPerformanceProvider"
+96-->[io.sentry:sentry-android-core:5.1.0-beta.2] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/f1115312a577a3aaf9e94271654430c7/jetified-sentry-android-core-5.1.0-beta.2/AndroidManifest.xml:20:13-77
+97            android:exported="false"
+97-->[io.sentry:sentry-android-core:5.1.0-beta.2] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/f1115312a577a3aaf9e94271654430c7/jetified-sentry-android-core-5.1.0-beta.2/AndroidManifest.xml:21:13-37
+98            android:initOrder="200" />
+98-->[io.sentry:sentry-android-core:5.1.0-beta.2] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/f1115312a577a3aaf9e94271654430c7/jetified-sentry-android-core-5.1.0-beta.2/AndroidManifest.xml:22:13-36
+99        <provider
+99-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/70a35ff34a52e788ebdff6ceaf2ae604/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+100            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+100-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/70a35ff34a52e788ebdff6ceaf2ae604/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+101            android:authorities="com.quokka.lifecycle-process"
+101-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/70a35ff34a52e788ebdff6ceaf2ae604/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+102            android:exported="false"
+102-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/70a35ff34a52e788ebdff6ceaf2ae604/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+103            android:multiprocess="true" />
+103-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/muhammadkashaf/.gradle/caches/transforms-2/files-2.1/70a35ff34a52e788ebdff6ceaf2ae604/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+104    </application>
+105
+106</manifest>

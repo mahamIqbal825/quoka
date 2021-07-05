@@ -1,0 +1,6 @@
+module Pods_quokka {
+  umbrella header "Pods-quokka-umbrella.h"
+
+  export *
+  module * { export * }
+}

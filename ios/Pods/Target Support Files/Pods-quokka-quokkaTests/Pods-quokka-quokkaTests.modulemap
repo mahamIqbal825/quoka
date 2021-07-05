@@ -1,0 +1,6 @@
+module Pods_quokka_quokkaTests {
+  umbrella header "Pods-quokka-quokkaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
